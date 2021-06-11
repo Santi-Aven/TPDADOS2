@@ -26,7 +26,7 @@
 # Indicar también si el ganador es el que tuvo mayor porcentaje de aciertos.
 # Si algún jugador ganó en al menos 3 turnos seguidos.
 
-# Reglas de la Segunda Ronda
+# Reglas de la Segunda Ronda hola como estas yo estoy 
 #
 # a.) El primer jugador vuelve a lanzar los 3 dados, y se considera que apuesta tod0 el puntaje de la ronda anterior a par/impar
 # (el programa debe pedir que el jugador elija si apuesta por par o impar).
